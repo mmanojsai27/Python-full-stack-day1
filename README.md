@@ -5,40 +5,31 @@ Overview
 
 This repository contains introductory Python notes and examples covering the basic concepts required to start learning Python programming.
 
-Topics Covered
-Programming Paradigms
-Procedural Programming
-Object-Oriented Programming (OOP)
-Python Basics
-Dynamic Typing
-Interpreter-Based Execution
-High-Level Language Features
-History of Python
-Why Python is Popular
-Tokens in Python
-Keywords
-Identifiers
-Literals
-Operators
-Punctuators
-Variables
-Rules for Naming Variables
-Valid and Invalid Variable Names
-Comments
-Single-Line Comments (#)
-Multi-Line Comments (''' ''' and """ """)
-Boolean Values
-True
-False
-Operators
-Arithmetic Operators
-Assignment Operators
-Comparison Operators
-Logical Operators
-Identity Operators
-Membership Operators
-Bitwise Operators
-Purpose
+Topics Covered-->
+Programming Paradigms,
+Procedural Programming,
+Object-Oriented Programming (OOP),
+Python Basics,
+Dynamic Typing,
+Interpreter-Based Execution,
+High-Level Language Features,
+History of Python,
+Why Python is Popular,
+Tokens in Python,
+Keywords,
+Identifiers,
+Literals,
+Operators,
+Punctuators,
+Variables,
+Rules for Naming Variables,
+Valid and Invalid Variable Names,
+Comments,
+Single-Line Comments (#),
+Multi-Line Comments (''' ''' and """ """),
+Boolean Values,
+True,
+False,
 
 These notes are created as part of my Python learning journey to build a strong foundation in programming concepts and Python syntax.
 
